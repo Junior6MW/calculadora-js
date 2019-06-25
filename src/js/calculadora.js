@@ -8,16 +8,16 @@ var Calculadora = {
 		num2 = parseFloat(num2);
 
 		return num1 + num2;
-	};
+	},
 	subtrair:  function(num1, num2) {
 		return 0;
-	};
+	},
 	dividir:  function(num1, num2) {
 		return 0;
-	};
+	},
 	multiplicar:  function(num1, num2) {
 		return 0;
-	};
+	},
 };
 // usado na função 'require' do NodeJS
 if (typeof module !== 'undefined'
